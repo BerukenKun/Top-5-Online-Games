@@ -99,6 +99,11 @@ img#thumb{
     background-attachment: fixed;
     background-size: cover;
     position: center center;
-    width: 770px;
-    height: 454px;
+    width: 45vw;
+    height: 29vw;
+    
+    /*height: 58vh;*/
+
+    /*width: 770px;
+    height: 454px;*/
 }
