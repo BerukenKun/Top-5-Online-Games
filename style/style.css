@@ -21,13 +21,15 @@ h1{
     text-align: center;
     padding-top: 30px;
     padding-bottom: 50px;
-    font-size: 2.5em;
+    /*font-size: 2.5em;*/
+    font-size: 2.4vw;
 }
 
 h2{
     padding-top: 30px;
     padding-bottom: 10px;
-    font-size: 1.8em;
+    /*font-size: 1.8em;*/
+    font-size: 1.7vw;
 }
 
 h2 a{
@@ -39,7 +41,8 @@ h2 a:visited{
 }
 
 section p{
-    font-size: 1.3em;
+    /*font-size: 1.3em;*/
+    font-size: 1.3vw;
     text-align: justify;
     line-height: 1.5em;
     padding-top: 50px;
